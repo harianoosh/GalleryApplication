@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">GalleryApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="name_label">Name</string>
+    <string name="submit_label">Submit</string>
+    <string name="upload_label">Upload</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="login_label">Login</string>
+    <string name="signout_label">SignOut</string>
+    <string name="post_label">Post</string>
+    <string name="all_users_label">All Users</string>
+    <string name="my_profile_label">My Profile</string>
+    <string name="comments_label">Comments</string>
+    <string name="likes_label">likes</string>
+    <string name="image_extension">.jpg</string>
+    <string name="comment_placeholder">Write a comment here...</string>
+    <string name="create_new_account__label">Create New Account</string>
+
+    <string name="login_title">Login</string>
+    <string name="upload_images_title">Upload Images</string>
+    <string name="upload_progress_title">Upload progress</string>
+    <string name="profile_title">My Profile</string>
+    <string name="all_users_title">All Users</string>
+    <string name="preview_title">Preview...</string>
+    <string name="uploading_label">Uploading...</string>
+    <string name="select_images_label">Select a Picture(s)</string>
+    <string name="create_new_account_title">Create New Account</string>
+
+    <string name="male_label">Male</string>
+    <string name="female_label">Female</string>
+
+    <string name="profile_tag">\'s Profile</string>
+    <string name="post_tag">\'s Post</string>
+
+    <string name="login_successful">Login Successful!!!</string>
+    <string name="registration_successful">Registration Successful!!!</string>
+
+    <string name="error_dialogue_title">Error occurred</string>
+    <string name="status_dialogue_title">Status</string>
+    <string name="error_dialogue_positive">Ok</string>
+    <string name="error_unknown">Unknown error occurred</string>
+
+    <string name="name_error">Please enter valid name</string>
+    <string name="email_error">Please enter valid email</string>
+    <string name="password_error">Please enter valid password</string>
+    <string name="gender_error">Please select gender</string>
+
+    <string name="profile_creation_error">Error occurred creating a profile</string>
+    <string name="account_creation_error">Error occurred creating a account</string>
+
+    <string name="accounts_document">accounts</string>
+
+    <string name="no_images_to_upload">Please select minimum of one image to upload</string>
+    <string name="upload_success">Upload Successful</string>
+    <string name="import_images_0">No images selected</string>
+    <string name="image_preview_label">Click on any Image for preview...</string>
+
+    <string name="profiles_collection">profiles</string>
+    <string name="images_collection">images</string>
+    <string name="accounts_collection">accounts</string>
+</resources>
